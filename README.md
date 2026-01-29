@@ -1,4 +1,4 @@
-### SEKCJA RAPORTÓW Z POWERBI 
+
 
 ## Projekt - 1
 Analiza ankiety przeprowadzanej na studentach ekonometrii i analityki danych
