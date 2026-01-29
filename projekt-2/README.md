@@ -1,4 +1,4 @@
-# Analiza sprzedaży i przychodów w Polsce – dashboard Power BI
+# Analiza sprzedaży i przychodów w Polsce 
 
 ## 1) Opis
 Projekt prezentuję wyniki sprzedaży w Polscem w podziałe na regiony, produkty oraz czas.
