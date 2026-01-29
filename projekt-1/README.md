@@ -1,4 +1,4 @@
-# Interaktywny dashboard w Power BI
+# Dashboard z ankiety wsród studentów
 
 ## Opis:
 Projekt prezentuje analizę danych z ankiety przeprowadzonej wśród studentów ekonometri i analityki danych, badającej związek między spożyciem używek a różnymi aspektami życia akademickiego, takimi jak średnia ocen, wydatki i ogólne zadowolenie.
