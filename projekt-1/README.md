@@ -1,4 +1,4 @@
-# Analiza ankiety przeprowadzanej na studentach – dashboard Power 
+# Analiza ankiety przeprowadzanej na studentach – dashboard Power BI
 
 ## 1) Opis
 Projekt prezentuje analizę danych z ankiety przeprowadzonej wśród studentów ekonometri i analityki danych, badającej związek między spożyciem używek a różnymi aspektami życia akademickiego, takimi jak średnia ocen, wydatki i ogólne zadowolenie.
